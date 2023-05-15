@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDV_VK_Test_task", "UDV_VK_Test_task.csproj", "{C063691F-4DB3-467E-81EB-58871EA90381}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C063691F-4DB3-467E-81EB-58871EA90381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C063691F-4DB3-467E-81EB-58871EA90381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C063691F-4DB3-467E-81EB-58871EA90381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C063691F-4DB3-467E-81EB-58871EA90381}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6259757F-2535-42DB-A0A7-3944C31E8B93}
+	EndGlobalSection
+EndGlobal
